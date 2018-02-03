@@ -7,10 +7,10 @@ Understand strengths and weaknesses of these libraries
 Test them out on different datasets/problems
 Some of the visualization libraries I am considering are:
 
-Seaborn
-Bokeh
-Mayavi
-Holoviews
-Datashader
-Altair
-Matplotlib - specific focus on 3-D
+- Seaborn
+- Bokeh
+- Mayavi
+- Holoviews
+- Datashader
+- Altair
+- Matplotlib - specific focus on 3-D
