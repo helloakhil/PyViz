@@ -1,4 +1,4 @@
-#Experiments with Visualization Libraries in Python
+# Experiments with Visualization Libraries in Python
 
 Python has a number of visualization libraries. My goals are the following:
 
